@@ -1,6 +1,6 @@
 ### Hi 👋 Welcome
 
-- 😄 I'm Mohamednur Abshir:
+- 😄 I'm Mohamednur Abshir
 - 🔭 I’m currently working as Full stack developer at Kaizen IT LTD
 - 🌱 I’m currently learning Livewire with alpinejs in Laravel
 - 👯 I’m looking to collaborate on any project
