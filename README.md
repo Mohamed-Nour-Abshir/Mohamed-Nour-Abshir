@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=mohamed-nour-abshir&show_icons=true&theme=dark&locale=en" alt="mohamed-nour-abshir" /></p>
 
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-nour-abshir&show_icons=true&theme=dark&locale=en&layout=compact" alt="mohamed-nour-abshir" /></p>
+<p><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-nour-abshir&show_icons=true&theme=dark&locale=en&layout=compact" alt="mohamed-nour-abshir" /></p>
 
 
 <p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-nour-abshir&theme=dark" alt="mohamed-nour-abshir" /></p>
