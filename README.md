@@ -36,4 +36,4 @@
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-nour-abshir&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mohamed-nour-abshir" /></p>
 
 
-<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-nour-abshir&theme=dark" alt="mohamed-nour-abshir" /></p>
+<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-nour-abshir&theme=tokyonight" alt="mohamed-nour-abshir" /></p>
