@@ -1,7 +1,6 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamednur Abshir</h1>
 <h3 align="center">Full stack web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-nour-abshir&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-nour-abshir" /> </p>
 
