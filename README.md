@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at [https://mohamed-nour-abshir.github.io/My-Protofolio/](https://mohamednurabshir.kaizenitbd.com/)
+- 👨‍💻 All of my projects are available at mohamednurabshir.kaizenitbd.com](https://mohamednurabshir.kaizenitbd.com/)
 
 - 💬 Ask me about **any web queries**
 
 - 📫 How to reach me **mdnourabshir@gmail.com**
 
-- 📄 Know about my experiences [https://mohamed-nour-abshir.github.io/My-Protofolio/MohamedNur%20Abshir-2.pdf](https://mohamed-nour-abshir.github.io/My-Protofolio/MohamedNur%20Abshir-2.pdf)
+- 📄 Know about my experiences [Mohamednur Abshir CV](https://mohamednurabshir.kaizenitbd.com/assets/img/CV/1680774767.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
