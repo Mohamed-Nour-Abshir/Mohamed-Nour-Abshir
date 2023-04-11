@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at mohamednurabshir.kaizenitbd.com](https://mohamednurabshir.kaizenitbd.com/)
+- 👨‍💻 All of my projects are available at [mohamednurabshir.kaizenitbd.com](https://mohamednurabshir.kaizenitbd.com/)
 
 - 💬 Ask me about **any web queries**
 
