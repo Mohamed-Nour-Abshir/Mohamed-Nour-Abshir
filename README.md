@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mdnourabshir@gmail.com**
 
-- 📄 Know about my experiences [Mohamednur Abshir CV]([https://mohamednurabshir.kaizenitbd.com/assets/img/CV/1680774767.pdf](https://mohamednurabshir.kaizenitbd.com/assets/img/CV/1681380506.pdf))
+- 📄 Know about my experiences [Mohamednur Abshir CV](https://mohamednurabshir.kaizenitbd.com/assets/img/CV/1681380506.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
