@@ -33,7 +33,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-nour-abshir&theme=onedark" alt="mohamed-nour-abshir" /></a> </p>
 
-<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=mohamed-nour-abshir&show_icons=true&theme=tokyonight&locale=en" alt="mohamed-nour-abshir" /></p>
+<!--<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=mohamed-nour-abshir&show_icons=true&theme=tokyonight&locale=en" alt="mohamed-nour-abshir" /></p>-->
 
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-nour-abshir&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mohamed-nour-abshir" /></p>
 
